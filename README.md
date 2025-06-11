@@ -40,5 +40,5 @@ Finalizada a instalação, você já pode executar seu script que requer a lib r
 - Se o pip não estiver instalado ou não for encontrado, o script exibirá uma mensagem de erro e encerrará.
 
 ## Licença e contribuições
-Uso livre (Agradeço de marcar meu usuário GitHub caso tenha te ajudado)
+Uso livre (Agradeço de marcar meu usuário GitHub caso tenha te ajudado)  
 Fique à vontade para contribuir com melhorias através de pull requests.
